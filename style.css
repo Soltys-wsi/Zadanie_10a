@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    width: 60px;
+    height: 50px;   
+}
+
+#number {
+    background-color:rgb(3, 201, 205);
+
+}
+
+#scalone{
+    background-color: rgb(117, 196, 117);
+}
